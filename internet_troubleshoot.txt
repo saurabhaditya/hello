@@ -1,0 +1,5 @@
+ipconfig /all
+if disconnected then disable and enable wireless network adapter from manage -> device manager -> network adapters
+reconnect
+change channel if not good speed
+use speedtest.net to measure
